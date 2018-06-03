@@ -1,0 +1,269 @@
+console,date,developer,genre,location,name,week_num,weekly_sales,year,month,week,weekday,total_tweets,year_of_release,time_difference,last_week_sales
+X360,28 Jun 2014,Electronic,Sports,USA,2014 FIFA World Cup Brazil,12,6562,2014,6,26,5,0.0,2014-04-15 00:00:00,10.0,23059.0
+X360,28 Jun 2014,Electronic,Sports,USA,2014 FIFA World Cup Brazil,12,6562,2014,7,30,6,0.0,2014-04-15 00:00:00,14.0,23059.0
+WiiU,07 Nov 2015,Nintendo,Misc,USA,Animal Crossing Amiibo Festival,1,72336,2015,11,48,6,0.0,2015-11-13 00:00:00,3.0,0.0
+3DS,08 Jun 2013,Nintendo,Action,USA,Animal Crossing New Leaf,1,249385,2013,6,25,6,0.0,2001-04-14 00:00:00,636.0,19319.0
+X360,23 Mar 2013,Electronic,Shooter,USA,Army of Two The Devil s Cartel,1,38024,2013,3,13,6,0.0,2013-03-26 00:00:00,1.0,38024.0
+X360,08 Jun 2013,Ubisoft,Action,USA,Assassin s Creed III,33,7455,2013,6,23,6,0.0,2012-11-18 00:00:00,28.0,0.0
+XOne,28 Dec 2013,Ubisoft,Action,USA,Assassin s Creed IV Black Flag,7,19934,2013,12,52,5,0.0,2013-10-29 00:00:00,8.0,28884.0
+XOne,28 Dec 2013,Ubisoft,Action,USA,Assassin s Creed IV Black Flag,7,19934,2014,1,4,6,0.0,2013-10-29 00:00:00,12.0,28884.0
+XOne,30 Dec 2017,Ubisoft,Action,USA,Assassin s Creed Origins,11,16159,2018,1,3,6,6000.0,2017-10-27 00:00:00,12.0,13203.0
+XOne,26 Dec 2015,Ubisoft,Action,USA,Assassin s Creed Syndicate,11,18767,2016,1,1,6,0.0,2015-11-19 00:00:00,7.0,20505.0
+PS3,08 Mar 2014,Tecmo,Role-Playing,USA,Atelier Escha & Logy Alchemists of the Dusk Sky,1,15431,2014,3,11,6,0.0,2014-03-11 00:00:00,1.0,15431.0
+PS4,04 Jun 2016,Tecmo,Role-Playing,USA,Atelier Sophie The Alchemist of the Mysterious Book,1,7411,2016,6,22,6,0.0,2016-06-07 00:00:00,0.0,0.0
+0,08 Jun 2013,0,0,USA,Batman Arkham City,87,14662,2013,6,23,5,0.0,2012-11-18 00:00:00,28.0,18642.0
+0,08 Jun 2013,0,0,USA,Batman Arkham City,87,14662,2013,7,27,6,0.0,2012-11-18 00:00:00,32.0,18642.0
+0,26 Oct 2013,0,0,USA,Batman Arkham Origins,2,72624,2013,11,46,6,0.0,2013-10-25 00:00:00,3.0,79661.0
+0,19 Oct 2013,0,0,USA,Batman Arkham Origins Blackgate,1,17387,2013,11,44,6,0.0,2013-10-25 00:00:00,2.0,28028.0
+XOne,30 Apr 2016,Take-Two,Shooter,USA,Battleborn,1,44074,2016,5,18,6,0.0,2016-05-03 00:00:00,1.0,44074.0
+X360,08 Jun 2013,Electronic,Shooter,USA,Battlefield 3,86,7044,2013,6,23,6,0.0,2011-10-25 00:00:00,84.0,0.0
+XOne,30 Nov 2013,Electronic,Shooter,USA,Battlefield 4,3,55618,2013,11,48,5,0.0,2013-10-29 00:00:00,4.0,105463.0
+XOne,30 Nov 2013,Electronic,Shooter,USA,Battlefield 4,3,55618,2013,12,52,6,0.0,2013-10-29 00:00:00,8.0,105463.0
+NS,24 Feb 2018,Nintendo,Action,USA,Bayonetta 2,3,11362,2018,3,11,6,3500.0,2018-02-16 00:00:00,4.0,21112.0
+PS3,19 Oct 2013,Sony Computer,Adventure,USA,Beyond Two Souls,3,18974,2013,11,44,6,0.0,2013-10-08 00:00:00,3.0,0.0
+X360,23 Mar 2013,Take-Two,Shooter,USA,BioShock Infinite,1,458938,2013,3,13,6,0.0,2013-03-26 00:00:00,1.0,458938.0
+PS4,26 Dec 2015,Sony Computer,Action,USA,Bloodborne,41,19084,2015,12,52,6,0.0,2015-03-24 00:00:00,39.0,0.0
+PSV,10 May 2014,Take-Two,Shooter,USA,Borderlands 2,2,8189,2014,5,19,5,0.0,2009-10-20 00:00:00,237.0,42379.0
+PSV,10 May 2014,Take-Two,Shooter,USA,Borderlands 2,2,8189,2014,6,23,6,0.0,2009-10-20 00:00:00,241.0,42379.0
+PS4,10 May 2014,Focus Home,Action,USA,Bound By Flame,2,15346,2014,6,22,6,0.0,2014-05-09 00:00:00,3.0,0.0
+3DS,22 Feb 2014,Nintendo,Role-Playing,USA,Bravely Default Flying Fairy,4,13913,2014,3,10,6,0.0,2014-02-07 00:00:00,4.0,19379.0
+3DS,30 Apr 2016,Nintendo,Role-Playing,USA,Bravely Second End Layer,4,7766,2016,5,18,6,0.0,2016-04-15 00:00:00,3.0,115449.0
+XOne,31 Oct 2015,Activision,Shooter,USA,Call of Duty Black Ops 3,1,1018190,2015,11,44,6,0.0,2015-11-06 00:00:00,0.0,170275.0
+X360,23 Mar 2013,Activision,Shooter,USA,Call of Duty Black Ops II,20,24978,2013,3,12,5,0.0,2012-11-18 00:00:00,17.0,14771.0
+X360,23 Mar 2013,Activision,Shooter,USA,Call of Duty Black Ops II,20,24978,2013,4,16,6,0.0,2012-11-18 00:00:00,21.0,14771.0
+XOne,31 May 2014,Activision,Shooter,USA,Call of Duty Ghosts,29,10062,2014,6,25,6,0.0,2013-11-05 00:00:00,32.0,18162.0
+XOne,30 Dec 2017,Activision,Shooter,USA,Call of Duty WWII,10,38518,2018,1,2,6,6500.0,2017-11-03 00:00:00,10.0,55788.0
+X360,22 Feb 2014,Konami Digital,Action,USA,Castlevania Lords of Shadow 2,1,16391,2014,3,9,6,0.0,2014-02-25 00:00:00,1.0,16391.0
+PS4,30 Sep 2017,Activision,Platform,USA,Crash Bandicoot N. Sane Trilogy,15,6685,2017,10,39,6,0.0,2017-06-30 00:00:00,13.0,9759.0
+PSV,30 Aug 2014,Nippon Ichi,Action,USA,Danganronpa 2 Goodbye Despair,1,20418,2014,8,35,5,0.0,2014-09-02 00:00:00,0.0,0.0
+PSV,30 Aug 2014,Nippon Ichi,Action,USA,Danganronpa 2 Goodbye Despair,1,20418,2014,9,39,6,0.0,2014-09-02 00:00:00,4.0,0.0
+PC,19 Apr 2014,Namco Bandai,Action,USA,Dark Souls II,1,9894,2014,5,19,6,0.0,2014-04-24 00:00:00,3.0,0.0
+XOne,30 Apr 2016,Namco Bandai,Role-Playing,USA,Dark Souls III,4,7945,2016,5,19,6,0.0,2016-04-12 00:00:00,4.0,18916.0
+XOne,28 May 2016,Deep,Action,USA,Dead Island Definitive Collection,1,8764,2016,6,22,6,0.0,2016-05-31 00:00:00,1.0,8764.0
+XOne,30 Nov 2013,Microsoft Game,Action,USA,Dead Rising 3,3,49521,2013,12,48,6,0.0,2010-09-28 00:00:00,165.0,13073.0
+PSV,19 Apr 2014,Nippon Ichi,Role-Playing,USA,Demon Gaze,1,12941,2014,4,16,5,0.0,2014-04-22 00:00:00,0.0,0.0
+PSV,19 Apr 2014,Nippon Ichi,Role-Playing,USA,Demon Gaze,1,12941,2014,5,20,6,0.0,2014-04-22 00:00:00,4.0,0.0
+XOne,28 Oct 2017,Activision,Shooter,USA,Destiny 2,9,23925,2017,11,46,6,160.0,2017-10-23 00:00:00,3.0,23338.0
+XOne,31 Oct 2015,Activision,Shooter,USA,Destiny The Taken King,8,32072,2015,11,46,6,0.0,2015-09-15 00:00:00,8.0,38551.0
+XOne,02 Apr 2016,Codemasters,Racing,USA,DiRT Rally,1,10535,2016,4,14,6,0.0,2016-04-05 00:00:00,1.0,10535.0
+X360,30 Aug 2014,Activision,Role-Playing,USA,Diablo III,53,5074,2014,8,35,6,0.0,2014-08-19 00:00:00,1.0,5026.0
+X360,28 Dec 2013,Disney Interactive,Action,USA,Disney Infinity,20,21130,2013,12,52,5,0.0,2013-08-18 00:00:00,18.0,19110.0
+X360,28 Dec 2013,Disney Interactive,Action,USA,Disney Infinity,20,21130,2014,1,4,6,0.0,2013-08-18 00:00:00,22.0,19110.0
+XOne,20 Sep 2014,Disney Interactive,Action,USA,Disney Infinity 2.0 Marvel Super Heroes,1,28972,2014,10,41,6,0.0,2014-09-23 00:00:00,3.0,59508.0
+PS4,27 Jan 2018,Square,Fighting,USA,Dissidia Final Fantasy NT,1,80489,2018,2,6,6,0.0,2018-01-30 00:00:00,2.0,10424.0
+3DS,08 Jun 2013,Nintendo,Platform,USA,Donkey Kong Country Returns 3D,4,20246,2013,6,24,6,0.0,2013-05-24 00:00:00,3.0,150880.0
+WiiU,22 Feb 2014,Nintendo,Platform,USA,Donkey Kong Country Tropical Freeze,2,34078,2014,2,8,6,0.0,2014-02-21 00:00:00,0.0,6765.0
+XOne,27 Jan 2018,Namco Bandai,Fighting,USA,Dragon Ball Fighter Z,2,30023,2018,1,4,5,1000.0,2018-01-26 00:00:00,0.0,60401.0
+XOne,27 Jan 2018,Namco Bandai,Fighting,USA,Dragon Ball Fighter Z,2,30023,2018,2,8,6,1000.0,2018-01-26 00:00:00,4.0,60401.0
+NS,30 Sep 2017,Namco Bandai,Action,USA,Dragon Ball Xenoverse 2,3,6319,2017,10,42,6,40.0,2015-02-24 00:00:00,138.0,8478.0
+NS,03 Feb 2018,Square,Role-Playing,USA,Dragon Quest Builders Revive Alefgard,1,13801,2018,2,7,6,0.0,2016-01-28 00:00:00,107.0,0.0
+PS4,30 Sep 2017,Capcom,Role-Playing,USA,Dragon s Dogma,1,9578,2017,10,40,6,0.0,2017-10-03 00:00:00,1.0,9578.0
+PS3,17 May 2014,Square,Role-Playing,USA,Drakengard 3,1,16600,2014,5,20,6,0.0,2014-05-20 00:00:00,0.0,0.0
+0,27 Feb 2016,0,0,USA,Dying Light,58,10664,2016,2,8,5,0.0,2016-02-06 00:00:00,3.0,12126.0
+0,27 Feb 2016,0,0,USA,Dying Light,58,10664,2016,3,12,6,0.0,2016-02-06 00:00:00,7.0,12126.0
+XOne,10 Feb 2018,Tecmo,Action,USA,Dynasty Warriors 9,1,10208,2018,3,9,6,500.0,2003-09-05 00:00:00,756.0,16244.0
+XOne,26 Mar 2016,Electronic,Sports,USA,EA Sports UFC 2,3,17315,2016,4,14,6,0.0,2016-03-15 00:00:00,3.0,23057.0
+XOne,27 Jan 2018,Electronic,Sports,USA,EA Sports UFC 3,1,50518,2018,2,5,6,0.0,2018-02-02 00:00:00,1.0,50518.0
+3DS,14 Oct 2017,Atlus,Role-Playing,USA,Etrian Odyssey V,1,14376,2017,10,41,6,0.0,2007-05-15 00:00:00,543.0,0.0
+PS3,23 Mar 2013,Electronic,Action,USA,FIFA Soccer 13,27,21791,2013,3,12,5,0.0,2012-09-25 00:00:00,25.0,0.0
+PS3,23 Mar 2013,Electronic,Action,USA,FIFA Soccer 13,27,21791,2013,4,16,6,0.0,2012-09-25 00:00:00,29.0,0.0
+XOne,16 Nov 2013,Electronic,Sports,USA,FIFA Soccer 14,1,53244,2013,12,49,6,0.0,2010-09-28 00:00:00,166.0,11659.0
+PS3,13 Sep 2014,Nippon Ichi,Role-Playing,USA,Fairy Fencer F,1,9465,2014,9,39,6,0.0,2014-09-16 00:00:00,2.0,0.0
+XOne,30 Jan 2016,Bethesda,Role-Playing,USA,Fallout 4,13,13702,2016,2,5,6,0.0,2015-11-10 00:00:00,12.0,1943843.0
+X360,08 Jun 2013,Ubisoft,Shooter,USA,Far Cry 3,28,6598,2013,6,23,6,0.0,2012-12-04 00:00:00,26.0,0.0
+XOne,30 Apr 2016,Ubisoft,Action,USA,Far Cry Primal,11,9400,2016,4,17,5,0.0,2016-03-01 00:00:00,8.0,11142.0
+XOne,30 Apr 2016,Ubisoft,Action,USA,Far Cry Primal,11,9400,2016,5,21,6,0.0,2016-03-01 00:00:00,12.0,11142.0
+3DS,30 Jan 2016,Square,Role-Playing,USA,Final Fantasy Explorers,2,14000,2016,2,7,6,0.0,2016-01-26 00:00:00,3.0,66748.0
+PSV,22 Mar 2014,Square,Role-Playing,USA,Final Fantasy X / X-2 HD Remaster,2,10112,2014,4,14,6,0.0,2014-03-18 00:00:00,2.0,34620.0
+PS4,19 Apr 2014,Square,Role-Playing,USA,Final Fantasy XIV A Realm Reborn,2,12827,2014,4,17,6,0.0,2014-04-14 00:00:00,1.0,63257.0
+3DS,30 Apr 2016,Nintendo,Role-Playing,USA,Fire Emblem Fates,12,11083,2016,5,17,6,0.0,2016-02-19 00:00:00,10.0,9681.0
+NS,21 Oct 2017,Nintendo,Action,USA,Fire Emblem Warriors,2,20145,2017,10,42,5,0.0,2017-10-20 00:00:00,0.0,49691.0
+NS,21 Oct 2017,Nintendo,Action,USA,Fire Emblem Warriors,2,20145,2017,11,46,6,0.0,2017-10-20 00:00:00,4.0,49691.0
+XOne,30 Dec 2017,Microsoft Game,Racing,USA,Forza Horizon 3,67,19231,2018,1,3,6,1000.0,2012-10-23 00:00:00,273.0,7856.0
+XOne,31 May 2014,Microsoft Game,Racing,USA,Forza Motorsport 5,29,9183,2014,6,24,6,0.0,2013-11-22 00:00:00,29.0,4524.0
+XOne,26 Dec 2015,Microsoft Game,Racing,USA,Forza Motorsport 6,16,21952,2016,1,53,6,0.0,2015-09-15 00:00:00,15.0,449065.0
+XOne,30 Sep 2017,Microsoft Game,Racing,USA,Forza Motorsport 7,1,89832,2017,10,39,6,0.0,2005-05-03 00:00:00,647.0,21863.0
+XOne,07 Oct 2017,Gun,Action,USA,Friday the 13th The Game,1,8858,2017,10,40,5,0.0,2017-10-13 00:00:00,0.0,13012.0
+XOne,07 Oct 2017,Gun,Action,USA,Friday the 13th The Game,1,8858,2017,11,44,6,0.0,2017-10-13 00:00:00,4.0,13012.0
+X360,23 Mar 2013,Microsoft Game,Shooter,USA,Gears of War Judgment,2,95472,2013,4,15,6,0.0,2013-03-19 00:00:00,3.0,0.0
+PS3,23 Mar 2013,Sony Computer,Action,USA,God of War Ascension,3,49174,2013,4,14,6,0.0,2013-03-12 00:00:00,3.0,0.0
+PS3,23 Mar 2013,Sony Computer,Action,USA,God of War Saga,31,24153,2013,3,13,6,0.0,2012-08-28 00:00:00,30.0,316372.0
+0,30 Nov 2013,0,0,USA,Gran Turismo 6,1,180413,2013,12,48,6,0.0,2009-10-01 00:00:00,217.0,0.0
+PS4,28 Oct 2017,Sony Computer,Racing,USA,Gran Turismo Sport,3,22129,2017,10,43,5,60.0,2017-10-17 00:00:00,1.0,50232.0
+PS4,28 Oct 2017,Sony Computer,Racing,USA,Gran Turismo Sport,3,22129,2017,11,47,6,60.0,2017-10-17 00:00:00,5.0,50232.0
+XOne,30 Sep 2017,Take-Two,Action,USA,Grand Theft Auto V,151,13567,2017,10,42,6,40.0,2004-10-26 00:00:00,677.0,12847.0
+PS4,04 Jun 2016,Aksys,Fighting,USA,Guilty Gear Xrd -Revelator-,1,10694,2016,6,24,6,0.0,2016-06-07 00:00:00,2.0,8779.0
+PS4,23 Sep 2017,Namco Bandai,Action,USA,Gundam Versus,1,12776,2017,10,39,6,0.0,2017-09-29 00:00:00,1.0,12776.0
+XOne,31 Oct 2015,Microsoft Game,Shooter,USA,Halo 5 Guardians,2,185985,2015,11,44,6,0.0,2015-10-27 00:00:00,0.0,15536.0
+XOne,28 May 2016,Microsoft Game,Shooter,USA,Halo The Master Chief Collection,82,6867,2016,5,21,5,0.0,2014-11-11 00:00:00,80.0,0.0
+XOne,28 May 2016,Microsoft Game,Shooter,USA,Halo The Master Chief Collection,82,6867,2016,6,25,6,0.0,2014-11-11 00:00:00,84.0,0.0
+XOne,02 Dec 2017,Gearbox,Action,USA,Hello Neighbor,1,86295,2017,12,51,6,0.0,2017-12-08 00:00:00,3.0,0.0
+XOne,21 May 2016,Deep,Shooter,USA,Homefront The Revolution,2,7142,2016,6,22,6,0.0,2016-05-17 00:00:00,2.0,7955.0
+PS4,30 Dec 2017,Sony Computer,Action,USA,Horizon Zero Dawn,45,14867,2018,1,1,6,2000.0,2017-02-28 00:00:00,44.0,1464151.0
+Wii,28 Jun 2014,Little,Adventure,USA,How to Train Your Dragon 2,4,6545,2014,6,26,6,0.0,2010-03-23 00:00:00,222.0,0.0
+WiiU,20 Sep 2014,Nintendo,Action,USA,Hyrule Warriors,1,129165,2014,9,38,5,0.0,2014-09-26 00:00:00,0.0,0.0
+WiiU,20 Sep 2014,Nintendo,Action,USA,Hyrule Warriors,1,129165,2014,10,42,6,0.0,2014-09-26 00:00:00,4.0,0.0
+3DS,26 Mar 2016,Nintendo,Action,USA,Hyrule Warriors Legends,2,14946,2016,4,15,6,0.0,2016-03-25 00:00:00,3.0,85494.0
+0,08 Jun 2013,0,0,USA,Injustice Gods Among Us,9,11422,2013,6,25,6,0.0,2013-04-16 00:00:00,9.0,0.0
+XOne,26 Dec 2015,Square,Action,USA,Just Cause 3,5,21297,2016,1,53,6,0.0,2006-09-27 00:00:00,483.0,288560.0
+X360,30 Nov 2013,Ubisoft,Misc,USA,Just Dance 2014,9,131591,2013,12,48,6,0.0,2013-10-08 00:00:00,7.0,180112.0
+Wii,26 Dec 2015,Ubisoft,Misc,USA,Just Dance 2016,11,20583,2015,12,52,5,0.0,2015-10-20 00:00:00,9.0,74356.0
+Wii,26 Dec 2015,Ubisoft,Misc,USA,Just Dance 2016,11,20583,2016,1,3,6,0.0,2015-10-20 00:00:00,13.0,74356.0
+NS,09 Dec 2017,Ubisoft,Misc,USA,Just Dance 2018,8,47117,2017,12,52,6,500.0,2017-10-24 00:00:00,9.0,0.0
+Wii,23 Mar 2013,Ubisoft,Misc,USA,Just Dance 4,25,14381,2013,4,14,6,0.0,2012-11-18 00:00:00,19.0,15400.0
+PS4,25 Jan 2014,Sony Computer,Action,USA,Killzone Shadow Fall,12,17359,2014,2,5,6,0.0,2013-11-15 00:00:00,11.0,457153.0
+X360,30 Nov 2013,Microsoft Game,Misc,USA,Kinect Adventures!,162,54305,2013,12,48,6,0.0,2010-11-04 00:00:00,160.0,22423.0
+XOne,12 Apr 2014,Microsoft Game,Sports,USA,Kinect Sports Rivals,2,13110,2014,4,15,5,0.0,2014-04-08 00:00:00,0.0,64195.0
+XOne,12 Apr 2014,Microsoft Game,Sports,USA,Kinect Sports Rivals,2,13110,2014,5,19,6,0.0,2014-04-08 00:00:00,4.0,64195.0
+XOne,17 Feb 2018,Deep,Role-Playing,USA,Kingdom Come Deliverance,2,9962,2018,3,10,6,1000.0,2018-02-13 00:00:00,3.0,10582.0
+PS4,30 Dec 2017,Square,Role-Playing,USA,Kingdom Hearts HD 2.8 Final Chapter Prologue,50,9217,2018,1,2,6,0.0,2017-01-24 00:00:00,50.0,0.0
+3DS,13 Jan 2018,Nintendo,Fighting,USA,Kirby Battle Royale,1,10680,2018,1,3,6,281.0,2018-01-19 00:00:00,1.0,10680.0
+3DS,04 Jun 2016,Nintendo,Action,USA,Kirby Planet Robobot,1,62539,2016,6,22,6,0.0,2016-06-10 00:00:00,0.0,0.0
+3DS,31 May 2014,Nintendo,Platform,USA,Kirby Triple Deluxe,6,12913,2014,5,22,5,0.0,2014-05-02 00:00:00,4.0,55674.0
+3DS,31 May 2014,Nintendo,Platform,USA,Kirby Triple Deluxe,6,12913,2014,6,26,6,0.0,2014-05-02 00:00:00,8.0,55674.0
+Wii,08 Jun 2013,Nintendo,Platform,USA,Kirby s Epic Yarn,139,8019,2013,6,26,6,0.0,2010-10-17 00:00:00,140.0,0.0
+XOne,11 Nov 2017,Take-Two,Adventure,USA,L.A. Noire,1,25510,2017,11,47,6,0.0,2017-11-14 00:00:00,2.0,29113.0
+3DS,08 Jun 2013,Nintendo,Action,USA,LEGO City Undercover The Chase Begins,8,7752,2013,6,24,6,0.0,2013-04-21 00:00:00,7.0,200555.0
+0,11 Nov 2017,0,0,USA,LEGO Marvel Super Heroes 2,1,27134,2017,11,45,6,0.0,2013-10-22 00:00:00,211.0,32188.0
+0,19 Oct 2013,0,0,USA,LEGO Marvel Super Heroes Universe in Peril,1,22527,2013,10,42,5,0.0,2013-10-22 00:00:00,0.0,0.0
+0,19 Oct 2013,0,0,USA,LEGO Marvel Super Heroes Universe in Peril,1,22527,2013,11,46,6,0.0,2013-10-22 00:00:00,4.0,0.0
+0,30 Jan 2016,0,0,USA,LEGO Marvel s Avengers,2,11121,2016,2,7,6,0.0,2016-01-26 00:00:00,3.0,12119.0
+0,05 Apr 2014,0,0,USA,LEGO The Hobbit,1,11240,2014,4,16,6,0.0,2014-04-08 00:00:00,2.0,14879.0
+3DS,30 Sep 2017,Level,Puzzle,USA,Layton s Mystery Journey Katrielle and the Millionaire s Conspiracy,1,6799,2017,10,40,6,0.0,2017-10-06 00:00:00,1.0,6799.0
+3DS,31 Oct 2015,Nintendo,Action,USA,Legend of Zelda Triforce Heroes,3,19464,2015,11,44,6,0.0,2015-10-23 00:00:00,1.0,24083.0
+X360,15 Feb 2014,Square,Role-Playing,USA,Lightning Returns Final Fantasy XIII,2,15516,2014,2,7,5,0.0,2014-02-11 00:00:00,0.0,31270.0
+X360,15 Feb 2014,Square,Role-Playing,USA,Lightning Returns Final Fantasy XIII,2,15516,2014,3,11,6,0.0,2014-02-11 00:00:00,4.0,31270.0
+PS4,28 May 2016,Sony Computer,Platform,USA,LittleBigPlanet 3,81,8142,2016,6,24,6,0.0,2014-11-18 00:00:00,82.0,5996.0
+3DS,23 Mar 2013,Nintendo,Adventure,USA,Luigi s Mansion Dark Moon,1,270867,2013,4,14,6,0.0,2013-03-24 00:00:00,2.0,17672.0
+PS3,23 Mar 2013,Sony Computer,Sports,USA,MLB 13 The Show,4,21436,2013,3,13,6,0.0,2013-03-05 00:00:00,3.0,220099.0
+0,31 May 2014,0,0,USA,MLB 14 The Show,5,8724,2014,6,22,6,0.0,2014-04-01 00:00:00,8.0,21628.0
+PS4,30 Apr 2016,Sony Computer,Action,USA,MLB 16 The Show,6,14521,2016,4,17,5,0.0,2011-03-08 00:00:00,268.0,18991.0
+PS4,30 Apr 2016,Sony Computer,Action,USA,MLB 16 The Show,6,14521,2016,5,21,6,0.0,2011-03-08 00:00:00,272.0,18991.0
+XOne,30 Aug 2014,Electronic,Sports,USA,Madden NFL 15,2,103310,2014,9,38,6,0.0,2014-08-26 00:00:00,3.0,93591.0
+XOne,31 Oct 2015,Electronic,Sports,USA,Madden NFL 16,11,32002,2015,11,46,6,0.0,2005-08-08 00:00:00,535.0,22435.0
+XOne,30 Sep 2017,Electronic,Sports,USA,Madden NFL 18,7,36221,2017,10,40,6,0.0,2007-08-14 00:00:00,529.0,594817.0
+XOne,28 Dec 2013,Electronic,Sports,USA,Madden NFL 25,7,26491,2013,12,52,6,0.0,2011-08-30 00:00:00,121.0,23701.0
+3DS,30 Nov 2013,Nintendo,Action,USA,Mario & Luigi Dream Team,17,46926,2013,11,48,5,0.0,2013-08-11 00:00:00,15.0,72082.0
+3DS,30 Nov 2013,Nintendo,Action,USA,Mario & Luigi Dream Team,17,46926,2013,12,52,6,0.0,2013-08-11 00:00:00,19.0,72082.0
+3DS,30 Jan 2016,Nintendo,Role-Playing,USA,Mario & Luigi Paper Jam,3,9674,2016,2,7,6,0.0,2016-01-22 00:00:00,4.0,22272.0
+3DS,30 Sep 2017,Nintendo,Role-Playing,USA,Mario & Luigi Superstar Saga + Bowser s Minions,1,13446,2017,10,41,6,0.0,2017-10-06 00:00:00,2.0,9217.0
+NS,30 Sep 2017,Ubisoft,Strategy,USA,Mario + Rabbids Kingdom Battle,6,12886,2017,10,40,6,0.0,2017-08-29 00:00:00,5.0,154476.0
+3DS,26 Apr 2014,Nintendo,Action,USA,Mario Golf World Tour,1,27548,2014,4,17,6,0.0,2014-05-02 00:00:00,0.0,5717.0
+3DS,28 May 2016,Nintendo,Racing,USA,Mario Kart 7,235,6773,2016,5,21,5,0.0,2011-12-04 00:00:00,233.0,8565.0
+3DS,28 May 2016,Nintendo,Racing,USA,Mario Kart 7,235,6773,2016,6,25,6,0.0,2011-12-04 00:00:00,237.0,8565.0
+WiiU,31 Oct 2015,Nintendo,Racing,USA,Mario Kart 8,76,25529,2015,11,47,6,0.0,2014-05-30 00:00:00,77.0,147385.0
+NS,30 Sep 2017,Nintendo,Racing,USA,Mario Kart 8 Deluxe,24,16245,2017,10,41,6,20.0,2017-04-28 00:00:00,24.0,31442.0
+3DS,04 Nov 2017,Nintendo,Misc,USA,Mario Party The Top 100,1,21505,2017,11,45,6,0.0,2017-11-10 00:00:00,1.0,21505.0
+XOne,23 Sep 2017,Capcom,Fighting,USA,Marvel vs. Capcom Infinite,2,9037,2017,9,38,6,0.0,2017-09-19 00:00:00,0.0,18339.0
+PS3,08 Jun 2013,Electronic,Role-Playing,USA,Mass Effect 3,67,7544,2013,6,23,5,0.0,2012-11-18 00:00:00,28.0,0.0
+PS3,08 Jun 2013,Electronic,Role-Playing,USA,Mass Effect 3,67,7544,2013,7,27,6,0.0,2012-11-18 00:00:00,32.0,0.0
+XOne,30 Sep 2017,Electronic,Role-Playing,USA,Mass Effect Andromeda,29,7038,2017,10,42,6,0.0,2017-03-21 00:00:00,30.0,7865.0
+PS4,20 Feb 2016,Capcom,Platform,USA,Mega Man Legacy Collection,1,24044,2016,3,9,6,0.0,2006-01-10 00:00:00,529.0,59209.0
+PSV,07 May 2016,Idea Factory,Action,USA,MegaTagmension Blanc + Neptune VS Zombies,1,12367,2016,5,19,6,0.0,2016-05-10 00:00:00,1.0,12367.0
+XOne,29 Mar 2014,Konami Digital,Action,USA,Metal Gear Solid V Ground Zeroes,3,9781,2014,3,13,6,0.0,2014-03-18 00:00:00,1.0,25013.0
+PS4,31 Oct 2015,Konami Digital,Action,USA,Metal Gear Solid V The Phantom Pain,10,35595,2015,10,44,5,0.0,2015-09-01 00:00:00,8.0,14195.0
+PS4,31 Oct 2015,Konami Digital,Action,USA,Metal Gear Solid V The Phantom Pain,10,35595,2015,11,48,6,0.0,2015-09-01 00:00:00,12.0,14195.0
+3DS,30 Sep 2017,Nintendo,Action-Adventure,USA,Metroid Samus Returns,4,7560,2017,10,42,6,0.0,2017-09-15 00:00:00,5.0,9936.0
+0,28 Oct 2017,0,0,USA,Middle-Earth Shadow of War,4,26854,2017,11,45,6,158.0,2017-10-10 00:00:00,4.0,31816.0
+3DS,04 Nov 2017,Nintendo,Misc,USA,Minecraft,1,22298,2017,11,45,6,0.0,2017-11-10 00:00:00,1.0,22298.0
+X360,26 Dec 2015,Mojang,Adventure,USA,Minecraft Story Mode,10,21935,2015,12,52,6,0.0,2015-10-27 00:00:00,8.0,16132.0
+WiiU,23 Mar 2013,Capcom,Role-Playing,USA,Monster Hunter 3 Ultimate,2,12844,2013,3,12,5,0.0,2013-03-19 00:00:00,0.0,18235.0
+WiiU,23 Mar 2013,Capcom,Role-Playing,USA,Monster Hunter 3 Ultimate,2,12844,2013,4,16,6,0.0,2013-03-19 00:00:00,4.0,18235.0
+XOne,27 Jan 2018,Capcom,Action,USA,Monster Hunter World,2,73315,2018,2,7,6,1500.0,2018-01-26 00:00:00,3.0,118225.0
+XOne,31 May 2014,Square,Action,USA,Murdered Soul Suspect,1,22531,2014,6,24,6,0.0,2014-06-03 00:00:00,2.0,12834.0
+PS4,16 Sep 2017,Electronic,Sports,USA,NBA Live 18,2,6468,2017,9,38,6,0.0,2017-09-15 00:00:00,1.0,27086.0
+XOne,27 Feb 2016,Namco Bandai,Fighting,USA,Naruto Shippuden Ultimate Ninja Storm 4,4,13770,2016,2,8,6,0.0,2009-11-27 00:00:00,326.0,28402.0
+XOne,31 Oct 2015,Electronic,Racing,USA,Need for Speed 2015,1,76954,2015,10,44,5,0.0,2015-11-03 00:00:00,0.0,138738.0
+XOne,31 Oct 2015,Electronic,Racing,USA,Need for Speed 2015,1,76954,2015,11,48,6,0.0,2015-11-03 00:00:00,4.0,138738.0
+XOne,30 Dec 2017,Electronic,Racing,USA,Need for Speed Payback,9,11154,2018,1,3,6,3500.0,2017-11-10 00:00:00,10.0,13051.0
+XOne,16 Nov 2013,Electronic,Racing,USA,Need for Speed Rivals,1,53324,2013,12,48,6,0.0,2013-11-19 00:00:00,2.0,0.0
+WiiU,31 May 2014,Nintendo,Platform,USA,New Super Luigi U,41,10964,2014,6,23,6,0.0,2013-08-25 00:00:00,40.0,872763.0
+WiiU,31 May 2014,Nintendo,Action,USA,New Super Mario Bros. U,81,10902,2014,6,22,6,0.0,1999-04-30 00:00:00,787.0,49527.0
+PS4,30 Dec 2017,Square,Role-Playing,USA,NieR Automata,44,9053,2017,12,52,5,0.0,2017-03-07 00:00:00,42.0,7867.0
+PS4,30 Dec 2017,Square,Role-Playing,USA,NieR Automata,44,9053,2018,1,4,6,0.0,2017-03-07 00:00:00,46.0,7867.0
+WiiU,29 Mar 2014,Nintendo,Action,USA,Nintendo Land,72,7986,2014,4,16,6,0.0,2012-11-18 00:00:00,73.0,18046.0
+XOne,28 May 2016,Namco Bandai,Fighting,USA,One Piece Burning Blood,1,19257,2016,6,23,6,0.0,2016-05-31 00:00:00,2.0,69150.0
+PSV,05 Jul 2014,Namco Bandai,Action,USA,One Piece Unlimited World Red,1,13075,2014,7,28,6,0.0,2014-07-08 00:00:00,1.0,13075.0
+XOne,28 May 2016,Activision,Shooter,USA,Overwatch,2,57896,2016,5,21,6,0.0,2016-05-24 00:00:00,0.0,81486.0
+3DS,07 Dec 2013,Nintendo,Role-Playing,USA,Paper Mario,57,64808,2013,12,49,5,0.0,2001-02-05 00:00:00,669.0,0.0
+3DS,07 Dec 2013,Nintendo,Role-Playing,USA,Paper Mario,57,64808,2014,1,1,6,0.0,2001-02-05 00:00:00,673.0,0.0
+XOne,27 Feb 2016,Electronic,Shooter,USA,Plants vs. Zombies Garden Warfare 2,2,31180,2016,3,11,6,0.0,2016-02-23 00:00:00,3.0,20953.0
+XOne,30 Dec 2017,Microsoft Game,Shooter,USA,PlayerUnknown s Battlegrounds,4,28246,2018,1,2,6,3000.0,2017-12-12 00:00:00,4.0,22056.0
+3DS,23 Mar 2013,Nintendo,Role-Playing,USA,Pokemon Mystery Dungeon Gates to Infinity,1,92992,2013,3,13,6,0.0,2013-03-24 00:00:00,1.0,92992.0
+3DS,16 Sep 2017,Nintendo,Role-Playing,USA,Pokemon Sun/Moon,45,8432,2017,9,37,6,0.0,2016-11-18 00:00:00,43.0,0.0
+3DS,30 Dec 2017,Nintendo,Role-Playing,USA,Pokemon Ultra Sun and Ultra Moon,8,33499,2017,12,52,5,3500.0,2017-11-17 00:00:00,6.0,11048.0
+3DS,30 Dec 2017,Nintendo,Role-Playing,USA,Pokemon Ultra Sun and Ultra Moon,8,33499,2018,1,4,6,3500.0,2017-11-17 00:00:00,10.0,11048.0
+NS,30 Sep 2017,Namco Bandai,Fighting,USA,Pokken Tournament,3,13529,2017,10,42,6,0.0,2017-09-22 00:00:00,4.0,18048.0
+PS4,16 Sep 2017,Namco Bandai,Racing,USA,Project CARS 2,1,7758,2017,10,39,6,0.0,2015-05-12 00:00:00,124.0,0.0
+XOne,30 Apr 2016,Microsoft Game,Action,USA,Quantum Break,5,13349,2016,5,18,6,0.0,2016-04-05 00:00:00,4.0,178120.0
+PS4,30 Apr 2016,Sony Computer,Platform,USA,Ratchet & Clank,4,21988,2016,5,17,6,0.0,2002-11-07 00:00:00,703.0,6049.0
+0,09 Nov 2013,0,0,USA,Ratchet & Clank Into the Nexus,1,68891,2013,11,45,5,0.0,2013-11-12 00:00:00,0.0,0.0
+0,09 Nov 2013,0,0,USA,Ratchet & Clank Into the Nexus,1,68891,2013,12,49,6,0.0,2013-11-12 00:00:00,4.0,0.0
+PS4,15 Feb 2014,Ubisoft,Platform,USA,Rayman Legends,1,13082,2014,3,10,6,0.0,2013-09-03 00:00:00,26.0,0.0
+PS4,26 Mar 2016,Capcom,Shooter,USA,Resident Evil 6,1,16304,2016,4,14,6,0.0,2009-05-28 00:00:00,358.0,0.0
+PS4,24 Feb 2018,Capcom,Action,USA,Resident Evil VII Biohazard,58,8536,2018,3,9,6,22.0,2017-01-24 00:00:00,57.0,675300.0
+3DS,27 Feb 2016,Xseed,Simulation,USA,Return to PopoloCrois A Story of Seasons,1,20105,2016,2,8,6,0.0,2016-03-01 00:00:00,0.0,0.0
+NS,13 Jan 2018,505,Sports,USA,Rocket League,1,10036,2018,1,2,5,1500.0,2016-07-05 00:00:00,79.0,0.0
+NS,13 Jan 2018,505,Sports,USA,Rocket League,1,10036,2018,2,6,6,1500.0,2016-07-05 00:00:00,83.0,0.0
+WiiU,07 Nov 2015,Nippon Ichi,Action,USA,Rodea the Sky Soldier,1,37276,2015,11,48,6,0.0,2015-11-10 00:00:00,3.0,0.0
+XOne,28 Dec 2013,Microsoft Game,Action,USA,Ryse Son of Rome,7,21908,2014,1,2,6,0.0,2013-11-22 00:00:00,7.0,12077.0
+PSV,12 Mar 2016,Xseed,Action,USA,Senran Kagura Estival Versus,1,29980,2016,3,11,6,0.0,2016-03-15 00:00:00,1.0,29980.0
+PS4,23 Sep 2017,Xseed,Action,USA,Senran Kagura Peach Beach Splash,1,11828,2017,9,38,6,0.0,2017-09-26 00:00:00,0.0,0.0
+PS4,24 Feb 2018,Sony Computer,Action,USA,Shadow of the Colossus,4,9365,2018,2,8,5,3000.0,2018-02-06 00:00:00,2.0,14989.0
+PS4,24 Feb 2018,Sony Computer,Action,USA,Shadow of the Colossus,4,9365,2018,3,12,6,3000.0,2018-02-06 00:00:00,6.0,14989.0
+XOne,28 Jun 2014,505,Action,USA,Sniper Elite 3,1,26153,2014,7,29,6,0.0,2014-07-01 00:00:00,3.0,17598.0
+PS4,04 Nov 2017,Sega,Platform,USA,Sonic Forces,1,23631,2017,11,46,6,0.0,2017-11-07 00:00:00,2.0,62076.0
+WiiU,26 Oct 2013,Sega,Platform,USA,Sonic Lost World,1,28684,2013,11,44,6,0.0,2013-10-29 00:00:00,1.0,28684.0
+XOne,28 Oct 2017,Ubisoft,Role-Playing,USA,South Park The Fractured But Whole,3,21479,2017,10,43,6,214.0,2017-10-17 00:00:00,1.0,33898.0
+X360,29 Mar 2014,Ubisoft,Role-Playing,USA,South Park The Stick of Truth,5,13600,2014,3,13,5,0.0,2014-03-04 00:00:00,3.0,10146.0
+X360,29 Mar 2014,Ubisoft,Role-Playing,USA,South Park The Stick of Truth,5,13600,2014,4,17,6,0.0,2014-03-04 00:00:00,7.0,10146.0
+NS,30 Sep 2017,Nintendo,Shooter,USA,Splatoon 2,12,12930,2017,10,42,6,0.0,2015-05-29 00:00:00,125.0,17478.0
+WiiU,30 Apr 2016,Nintendo,Shooter,USA,Star Fox Zero,3,10639,2016,5,19,6,0.0,2016-04-22 00:00:00,3.0,94565.0
+XOne,30 Jan 2016,Electronic,Shooter,USA,Star Wars Battlefront 2015,12,19604,2016,2,5,6,0.0,2004-09-20 00:00:00,593.0,1590374.0
+XOne,30 Dec 2017,Electronic,Shooter,USA,Star Wars Battlefront II 2017,8,18757,2017,12,52,6,2589.0,2005-11-01 00:00:00,634.0,25312.0
+PC,23 Mar 2013,Activision,Strategy,USA,StarCraft II Heart of the Swarm,3,17706,2013,3,12,5,0.0,2013-03-12 00:00:00,1.0,0.0
+PC,23 Mar 2013,Activision,Strategy,USA,StarCraft II Heart of the Swarm,3,17706,2013,4,16,6,0.0,2013-03-12 00:00:00,5.0,0.0
+PC,07 Nov 2015,Activision,Strategy,USA,StarCraft II Legacy of the Void,1,84615,2015,11,48,6,0.0,2015-11-10 00:00:00,3.0,0.0
+PS4,27 Feb 2016,Capcom,Fighting,USA,Street Fighter V,3,11487,2016,3,10,6,0.0,2000-10-24 00:00:00,802.0,34170.0
+3DS,08 Jun 2013,Nintendo,Platform,USA,Super Mario 3D Land,83,7088,2013,6,24,6,0.0,2011-11-13 00:00:00,82.0,3510474.0
+WiiU,30 Nov 2013,Nintendo,Platform,USA,Super Mario 3D World,3,69887,2013,12,48,6,0.0,2013-11-22 00:00:00,1.0,30272.0
+NS,30 Dec 2017,Nintendo,Platform,USA,Super Mario Odyssey,11,43205,2017,12,52,5,3500.0,2017-10-27 00:00:00,9.0,282131.0
+NS,30 Dec 2017,Nintendo,Platform,USA,Super Mario Odyssey,11,43205,2018,1,4,6,3500.0,2017-10-27 00:00:00,13.0,282131.0
+XOne,17 Feb 2018,Namco Bandai,Role-Playing,USA,Sword Art Online Fatal Bullet,1,12475,2018,3,10,6,794.0,2018-02-23 00:00:00,3.0,31866.0
+PS3,22 Feb 2014,Namco Bandai,Role-Playing,USA,Tales of Symphonia Chronicles,1,71484,2014,3,10,6,0.0,2014-02-25 00:00:00,2.0,18472.0
+PS3,23 Aug 2014,Namco Bandai,Role-Playing,USA,Tales of Xillia 2,2,7862,2014,8,35,6,0.0,2014-08-19 00:00:00,1.0,69647.0
+XOne,26 Apr 2014,Activision,Action,USA,The Amazing Spider-Man 2 2014,1,14634,2014,4,17,6,0.0,2012-06-26 00:00:00,95.0,16758.0
+PC,29 Mar 2014,Bethesda,Action,USA,The Elder Scrolls Online,1,127377,2014,3,13,5,0.0,2014-04-04 00:00:00,0.0,11651.0
+PC,29 Mar 2014,Bethesda,Action,USA,The Elder Scrolls Online,1,127377,2014,4,17,6,0.0,2014-04-04 00:00:00,4.0,11651.0
+NS,27 Jan 2018,Bethesda,Role-Playing,USA,The Elder Scrolls V Skyrim,12,7321,2018,2,7,6,1500.0,2017-11-17 00:00:00,13.0,45407.0
+PS4,17 Feb 2018,Bethesda,Role-Playing,USA,The Elder Scrolls V Skyrim PSVR,15,8599,2018,3,9,6,0.0,2017-11-17 00:00:00,15.0,46813.0
+XOne,14 Oct 2017,Bethesda,Action,USA,The Evil Within II,2,11073,2017,10,42,6,40.0,2014-10-14 00:00:00,157.0,38877.0
+0,30 Aug 2014,0,0,USA,The LEGO Movie Videogame,31,4436,2014,8,35,6,0.0,2014-02-07 00:00:00,29.0,5193.0
+0,30 Sep 2017,0,0,USA,The Last of Us,167,6992,2017,9,39,5,0.0,2014-07-29 00:00:00,165.0,0.0
+0,30 Sep 2017,0,0,USA,The Last of Us,167,6992,2017,10,43,6,0.0,2014-07-29 00:00:00,169.0,0.0
+3DS,30 Nov 2013,Nintendo,Action,USA,The Legend of Zelda A Link Between Worlds,3,78923,2013,12,51,6,0.0,2013-11-22 00:00:00,4.0,21092.0
+NS,30 Sep 2017,Nintendo,Action,USA,The Legend of Zelda Breath of the Wild,32,18524,2017,10,41,6,19.0,2017-03-03 00:00:00,32.0,35817.0
+3DS,05 Mar 2016,Nintendo,Action,USA,The Legend of Zelda Ocarina of Time 3D,247,18626,2016,3,10,6,0.0,2011-06-19 00:00:00,246.0,1786007.0
+WiiU,28 May 2016,Nintendo,Action,USA,The Legend of Zelda Twilight Princess HD,14,11473,2016,5,21,6,0.0,2016-03-04 00:00:00,12.0,225812.0
+XOne,27 Jan 2018,Electronic,Simulation,USA,The Sims 4,12,7241,2018,1,4,5,2000.0,2003-03-24 00:00:00,774.0,23776.0
+XOne,27 Jan 2018,Electronic,Simulation,USA,The Sims 4,12,7241,2018,2,8,6,2000.0,2003-03-24 00:00:00,778.0,23776.0
+X360,23 Mar 2013,Activision,Misc,USA,The Walking Dead Survival Instinct,2,30978,2013,4,15,6,0.0,2013-03-19 00:00:00,3.0,16730.0
+PS3,22 Mar 2014,Nippon Ichi,Role-Playing,USA,The Witch and the Hundred Knights,1,22917,2014,4,14,6,0.0,2014-03-25 00:00:00,2.0,0.0
+3DS,13 Sep 2014,Square,Misc,USA,Theatrhythm Final Fantasy Curtain Call,1,26588,2014,9,38,6,0.0,2014-09-16 00:00:00,1.0,26588.0
+XOne,06 Jan 2018,Electronic,Shooter,USA,Titanfall 2,64,8171,2018,1,1,6,500.0,2016-10-28 00:00:00,62.0,7553.0
+XOne,30 Apr 2016,Ubisoft,Shooter,USA,Tom Clancy s The Division,9,26197,2016,4,17,5,0.0,2016-03-08 00:00:00,7.0,20349.0
+XOne,30 Apr 2016,Ubisoft,Shooter,USA,Tom Clancy s The Division,9,26197,2016,5,21,6,0.0,2016-03-08 00:00:00,11.0,20349.0
+X360,23 Nov 2013,Square,Action,USA,Tomb Raider,39,77376,2013,12,50,6,0.0,1996-11-14 00:00:00,891.0,25050.0
+3DS,31 May 2014,Nintendo,Simulation,USA,Tomodachi Life,1,24140,2014,6,24,6,0.0,2014-06-06 00:00:00,2.0,11880.0
+PS4,28 May 2016,Sony Computer,Shooter,USA,Uncharted 4 A Thief s End,4,40881,2016,6,22,6,0.0,2016-05-10 00:00:00,3.0,909645.0
+PS4,30 Sep 2017,Sony Computer,Action,USA,Uncharted The Lost Legacy,7,8228,2017,10,39,6,0.0,2017-08-22 00:00:00,5.0,40892.0
+PS4,31 Oct 2015,Sony Computer,Action,USA,Uncharted The Nathan Drake Collection,5,38068,2015,10,44,5,0.0,2015-10-07 00:00:00,3.0,10571.0
+PS4,31 Oct 2015,Sony Computer,Action,USA,Uncharted The Nathan Drake Collection,5,38068,2015,11,48,6,0.0,2015-10-07 00:00:00,7.0,10571.0
+XOne,28 Oct 2017,Bethesda,Shooter,USA,Wolfenstein II The New Colossus,2,24862,2017,11,46,6,20.0,2017-10-27 00:00:00,3.0,23836.0
+XOne,31 May 2014,Bethesda,Shooter,USA,Wolfenstein The New Order,3,10443,2014,6,24,6,0.0,2014-05-20 00:00:00,3.0,12845.0
+NS,30 Dec 2017,Nintendo,Role-Playing,USA,Xenoblade Chronicles 2,6,8991,2018,1,1,6,1000.0,2017-12-01 00:00:00,5.0,306426.0
+3DS,23 Sep 2017,Level,Role-Playing,USA,Yokai Watch 2 Shinuchi,1,8576,2017,9,38,6,0.0,2017-09-29 00:00:00,0.0,0.0
+3DS,29 Mar 2014,Nintendo,Action,USA,Yoshi s New Island,4,14559,2014,3,13,5,0.0,2014-03-14 00:00:00,2.0,8349.0
+3DS,29 Mar 2014,Nintendo,Action,USA,Yoshi s New Island,4,14559,2014,4,17,6,0.0,2014-03-14 00:00:00,6.0,8349.0
+WiiU,31 Oct 2015,Nintendo,Platform,USA,Yoshi s Woolly World,4,29216,2015,11,47,6,0.0,2015-10-16 00:00:00,5.0,33347.0
+PS4,31 May 2014,Sony Computer,Action,USA,inFAMOUS Second Son,12,10160,2014,6,24,6,0.0,2014-03-21 00:00:00,12.0,51136.0
