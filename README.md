@@ -3,7 +3,7 @@
 ## Summary
 <br>
 This project investigates the correlation between publisher continent, number of tweets to sales, and ultimately be able to predict the weekly sales for the following week. Publishers usually were located on USA and Europe. Using the best machine learning method, AdaBoostRegressor with a RandomForestRegressor as a base estimator, I was able to predict the unit sales of videogames by name and console for the next four weeks with a 0.375 accuracy. 
-<br>
+
 ## Files 
 <br>
 videogame_sales.ipynb <br>
