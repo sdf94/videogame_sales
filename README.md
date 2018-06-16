@@ -1,4 +1,4 @@
-# How Much Can You Make Off Of Your Videogames?
+# How Many Videogames Will You Sell?
 
 ## Summary
 <br>
