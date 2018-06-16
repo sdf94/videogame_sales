@@ -6,9 +6,13 @@ This project investigates the correlation between publisher continent, number of
 
 ## Files 
 <br>
-videogame_sales.ipynb <br>
+twitter_videogame.ipynb <br>
+twitter_videogame.pdf <br>
 README.md <br>
 License <br>
+videogames-slack-deck.pdf <br>
+videogame_slide_deck.json <br>
+
 Data <br>
 ----- example_location.csv	<br>
 ----- game_sales.csv - data for weekly sales	<br>
